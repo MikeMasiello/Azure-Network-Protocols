@@ -47,11 +47,11 @@ Create a Storage Account in Microsoft Azure.
 <img src="https://i.imgur.com/CtOLJuo.png" height="80%" width="80%" alt="OS Ticket VM Creation"/>
 
 </p>
-Setup a virtual machine in Azure, Virtual Network, and Subnet.
-
+Create a virtual machine in Microsoft Azure with Windows 10, a Virtual Network, and Subnet.
+</p>
 <img src="https://i.imgur.com/SzLnmiV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Create virtual machine on Windows 10 Linux (Ubuntu) and deploy.
+Create virtual machine in Microsoft Azure with Linux( Ubuntu) and deploy.
 
 </p>
 <br />
