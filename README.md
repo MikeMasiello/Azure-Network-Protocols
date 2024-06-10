@@ -26,10 +26,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1: Create virtual machines in Microsoft Azure for Windows 10 and Linux
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Create resource groups and storage in Microsoft Azure
+- Step 2  Create Azure virtual networks and subnets
+- Step 3: Create Azure virtual machines for Windows 10 and Linux Ubuntu
+- Step 4: Create Azure network security groups
+- Step 5: 
 
 <h2>Actions and Observations</h2>
 
