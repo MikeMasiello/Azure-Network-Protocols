@@ -33,8 +33,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Create Resource Group/Storage Account, Setup a virtual machine in Azure, Virtual Network, and Subnet.  Create virtual machine on Windows 10 and Linux (Ubuntu)- deploy. 
+
+
+<img src="https://i.imgur.com/4If8Vds.png" height="80%" width="80%" alt="OS Ticket Resource Group Creation"/>
+<img src="https://i.imgur.com/o9HJA3f.png" height="80%" width="80%" alt="OS Ticket Storage Account Creation"/>
+<img src="https://i.imgur.com/CtOLJuo.png" height="80%" width="80%" alt="OS Ticket VM Creation"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
