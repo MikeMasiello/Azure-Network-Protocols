@@ -33,8 +33,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-<p>Create Resource Group/Storage Account, Setup a virtual machine in Azure, Virtual Network, and Subnet.  Create virtual machine on Windows 10 and Linux (Ubuntu)- deploy. 
-
+<p>Create Resource Group/Storage Account, Setup a virtual machine in Azure, Virtual Network, and Subnet.  Create virtual machine on Windows 10 Linux (Ubuntu) and deploy. 
+</p>
 
 <img src="https://i.imgur.com/4If8Vds.png" height="80%" width="80%" alt="OS Ticket Resource Group Creation"/>
 <img src="https://i.imgur.com/o9HJA3f.png" height="80%" width="80%" alt="OS Ticket Storage Account Creation"/>
