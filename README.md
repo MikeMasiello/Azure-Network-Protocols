@@ -26,27 +26,33 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1: Create virtual machines for Windows 10 and Linux
+- Step 1: Create virtual machines in Microsoft Azure for Windows 10 and Linux
 - Step 2
 - Step 3
 - Step 4
 
 <h2>Actions and Observations</h2>
 
-<p>Create Resource Group/Storage Account, Setup a virtual machine in Azure, Virtual Network, and Subnet.  Create virtual machine on Windows 10 Linux (Ubuntu) and deploy. 
+<p>   
 </p>
 
 <img src="https://i.imgur.com/4If8Vds.png" height="80%" width="80%" alt="OS Ticket Resource Group Creation"/>
+</p>
+Create a Resource Group in Microsoft Azure. 
+
 <img src="https://i.imgur.com/o9HJA3f.png" height="80%" width="80%" alt="OS Ticket Storage Account Creation"/>
+</p>
+Create a Storage Account in Microsoft Azure. 
+</p>
 <img src="https://i.imgur.com/CtOLJuo.png" height="80%" width="80%" alt="OS Ticket VM Creation"/>
 
 </p>
-<p>
+Setup a virtual machine in Azure, Virtual Network, and Subnet.
 
 <img src="https://i.imgur.com/SzLnmiV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create virtual machine on Windows 10 Linux (Ubuntu) and deploy.
+
 </p>
 <br />
 
@@ -54,6 +60,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
