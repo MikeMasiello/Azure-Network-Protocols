@@ -71,7 +71,7 @@ Utilize Microsoft Remote Desktop to access Windows 10 virtual machine
 Utilize Wireshark to capture packets using Interet Control Messaging Protocol (ICMP) 
 </p>
 <br />
-<img src="https://i.imgur.com/fRlTG2w.png" height="80%" width="80%" alt="Wireshark"/>https://i.imgur.com/fRlTG2w.png
+<img src="https://i.imgur.com/fRlTG2w.png" height="80%" width="80%" alt="Wireshark"/>
 </p>
 <br />
 Utilize Wireshark to capture packets using Secure Shell (SSH) 
