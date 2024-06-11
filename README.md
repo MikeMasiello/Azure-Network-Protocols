@@ -59,9 +59,9 @@ Create virtual machine in Microsoft Azure with Linux (Ubuntu) and deploy.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q4R7hqD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Utilize Microsoft Remote Desktop to access Windows 10 virtual machine
 </p>
 <br />
