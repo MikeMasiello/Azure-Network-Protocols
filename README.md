@@ -30,7 +30,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 2  Create Azure virtual networks and subnets
 - Step 3: Create Azure virtual machines for Windows 10 and Linux Ubuntu
 - Step 4: Create Azure network security groups
-- Step 5: 
+- Step 5: Utilize Microsoft Remote Desktop to connect to connect 2 virtual machines
+- Step 6: 
 
 <h2>Actions and Observations</h2>
 
