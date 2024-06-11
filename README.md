@@ -51,7 +51,7 @@ Create a Storage Account in Microsoft Azure.
 </p>
 Create a virtual machine in Microsoft Azure with Windows 10, a Virtual Network, and Subnet.
 </p>
-<img src="https://i.imgur.com/SzLnmiV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SzLnmiV.png" height="80%" width="80%" alt="Virtual Machine Linux"/>
 </p>
 Create virtual machine in Microsoft Azure with Linux (Ubuntu) and deploy.
 
@@ -59,9 +59,13 @@ Create virtual machine in Microsoft Azure with Linux (Ubuntu) and deploy.
 <br />
 
 <p>
-<img src="https://i.imgur.com/q4R7hqD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q4R7hqD.png" height="80%" width="80%" alt="Remote Desktop"/>
 </p>
 <p>
 Utilize Microsoft Remote Desktop to access Windows 10 virtual machine
 </p>
 <br />
+<img src="https://i.imgur.com/uJvTlVK.png" height="80%" width="80%" alt="Wireshark"/>
+</p>
+<br />
+Utilize Wireshark to capture packets
