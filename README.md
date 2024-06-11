@@ -65,7 +65,7 @@ Create virtual machine in Microsoft Azure with Linux (Ubuntu) and deploy.
 Utilize Microsoft Remote Desktop to access Windows 10 virtual machine
 </p>
 <br />
-<img src="https://i.imgur.com/uJvTlVK.png" height="80%" width="80%" alt="Wireshark"/>
+<img src="https://i.imgur.com/yMWgiST.png" height="80%" width="80%" alt="Wireshark"/>
 </p>
 <br />
-Utilize Wireshark to capture packets
+Utilize Wireshark to capture packets using Interet Control Messaging Protocol (ICMP) 
