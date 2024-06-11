@@ -31,7 +31,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 3: Create Azure virtual machines for Windows 10 and Linux Ubuntu
 - Step 4: Create Azure network security groups
 - Step 5: Utilize Microsoft Remote Desktop to connect to connect 2 virtual machines
-- Step 6: 
+- Step 6: Install Wireshark to inspect traffic between Azure virtual machines
 
 <h2>Actions and Observations</h2>
 
