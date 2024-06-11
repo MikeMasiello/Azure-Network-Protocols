@@ -74,4 +74,11 @@ Utilize Wireshark to capture packets using Interet Control Messaging Protocol (I
 <img src="https://i.imgur.com/fRlTG2w.png" height="80%" width="80%" alt="Wireshark"/>
 </p>
 <br />
-Utilize Wireshark to capture packets using Secure Shell (SSH) 
+Utilize Wireshark to capture packets using Secure Shell (SSH)
+</p>
+<br />
+<img src="https://i.imgur.com/ivDUljU.png" height="80%" width="80%" alt="Wireshark"/>
+</p>
+<br />
+Utilize Wireshark to monitor DHCP traffic over the network after renewing IP address
+
