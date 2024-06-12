@@ -40,7 +40,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <img src="https://i.imgur.com/4If8Vds.png" height="80%" width="80%" alt="OS Ticket Resource Group Creation"/>
 </p>
-Create a Resource Group in Microsoft Azure. 
+<h2>Create a Resource Group in Microsoft Azure<h2>. 
 
 <img src="https://i.imgur.com/o9HJA3f.png" height="80%" width="80%" alt="OS Ticket Storage Account Creation"/>
 </p>
