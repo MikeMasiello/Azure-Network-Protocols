@@ -7,9 +7,7 @@
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -64,34 +62,34 @@ Create virtual machine in Microsoft Azure with Linux (Ubuntu) and deploy.
 <p>
 Utilize Microsoft Remote Desktop to access Windows 10 virtual machine
 </p>
-<br />
+
 <img src="https://i.imgur.com/yMWgiST.png" height="80%" width="80%" alt="Wireshark"/>
 </p>
-<br />
+
 Utilize Wireshark to capture packets using Interet Control Messaging Protocol (ICMP) 
 </p>
 <br />
 <img src="https://i.imgur.com/fRlTG2w.png" height="80%" width="80%" alt="Wireshark"/>
 </p>
-<br />
+
 Utilize Wireshark to capture packets using Secure Shell (SSH)
 </p>
 <br />
 <img src="https://i.imgur.com/ivDUljU.png" height="80%" width="80%" alt="Wireshark"/>
 </p>
-<br />
+
 Utilize Wireshark to monitor DHCP traffic over the network after renewing IP address
 </p>
 <br />
 <img src="https://i.imgur.com/A3b81O6.png" height="80%" width="80%" alt="Wireshark"/>
 </p>
-<br />
+
 Utilize Wireshark to monitor DNS traffic over the network use nslookup to determine "Google" IP addresses
 </p>
 <br />
 <img src="https://i.imgur.com/xd9SCFY.png" height="80%" width="80%" alt="Wireshark"/>
 </p>
-<br />
+
 Utilize Wireshark to monitor ICMP traffic over the network use Ping -t.  
 </p>
 <br />
