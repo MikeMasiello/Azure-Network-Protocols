@@ -87,4 +87,9 @@ Utilize Wireshark to monitor DHCP traffic over the network after renewing IP add
 </p>
 <br />
 Utilize Wireshark to monitor DNS traffic over the network use nslookup to determine "Google" IP addresses
-
+</p>
+<br />
+<img src="https://i.imgur.com/xd9SCFY.png" height="80%" width="80%" alt="Wireshark"/>
+</p>
+<br />
+Utilize Wireshark to monitor ICMP traffic over the network use Ping -t. Create firewall rule to deny inbound ICMP traffic. 
