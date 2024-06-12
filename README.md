@@ -81,4 +81,10 @@ Utilize Wireshark to capture packets using Secure Shell (SSH)
 </p>
 <br />
 Utilize Wireshark to monitor DHCP traffic over the network after renewing IP address
+</p>
+<br />
+<img src="https://i.imgur.com/A3b81O6.png" height="80%" width="80%" alt="Wireshark"/>
+</p>
+<br />
+Utilize Wireshark to monitor DNS traffic over the network use nslookup to determine "Google" IP addresses
 
