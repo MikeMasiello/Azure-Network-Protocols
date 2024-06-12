@@ -92,13 +92,10 @@ Utilize Wireshark to monitor DNS traffic over the network use nslookup to determ
 <img src="https://i.imgur.com/xd9SCFY.png" height="80%" width="80%" alt="Wireshark"/>
 </p>
 <br />
-Utilize Wireshark to monitor ICMP traffic over the network use Ping -t. Create firewall rule to deny inbound ICMP traffic. 
+Utilize Wireshark to monitor ICMP traffic over the network use Ping -t.  
 </p>
 <br />
-<img src="</p>
-<br />
-<img src="https://i.imgur.com/xd9SCFY.png" height="80%" width="80%" alt="Wireshark"/>
+
+<img src="https://i.imgur.com/L6fWZTN.png" height="80%" width="80%" alt="Wireshark"/>
 </p>
-<br />" height="80%" width="80%" alt="Wireshark"/>
-</p>
-<br />
+Create firewall rule to deny inbound ICMP traffic
