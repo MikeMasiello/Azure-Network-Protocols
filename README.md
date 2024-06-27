@@ -35,7 +35,7 @@ In this walkthrough, we observe various network traffic to and from Azure Virtua
 
 <p>   
 </p>
-Create a Resource Group in Microsoft Azure. 
+1.) Create a Resource Group in Microsoft Azure. 
 <img src="https://i.imgur.com/4If8Vds.png" height="50%" width="50%" alt="OS Ticket Resource Group Creation"/>
 </p>
 
@@ -43,12 +43,12 @@ Create a Storage Account in Microsoft Azure.
 </p>
 <img src="https://i.imgur.com/o9HJA3f.png" height="50%" width="50%" alt="OS Ticket Storage Account Creation"/>
 </p>
-Create a virtual machine in Microsoft Azure with Windows 10, a Virtual Network, and Subnet.
+2.) Create a virtual machine in Microsoft Azure with Windows 10, a Virtual Network, and Subnet.
 </p>
 <img src="https://i.imgur.com/CtOLJuo.png" height="50%" width="50%" alt="OS Ticket VM Creation"/>
 
 </p>
-Create virtual machine in Microsoft Azure with Linux (Ubuntu) and deploy.
+3.) Create virtual machine in Microsoft Azure with Linux (Ubuntu) and deploy.
 </p>
 <img src="https://i.imgur.com/SzLnmiV.png" height="50%" width="50%" alt="Virtual Machine Linux"/>
 </p>
