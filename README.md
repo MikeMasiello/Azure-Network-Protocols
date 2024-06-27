@@ -52,6 +52,8 @@ Create a Storage Account in Microsoft Azure.
 </p>
 <img src="https://i.imgur.com/SzLnmiV.png" height="50%" width="50%" alt="Virtual Machine Linux"/>
 </p>
+4.) Create Azure network security groups
+<img src="https://i.imgur.com/L6fWZTN.png" height="50%" width="50%" alt="Remote Desktop"/>
 
 Utilize Microsoft Remote Desktop to access Windows 10 virtual machine
 <p>
