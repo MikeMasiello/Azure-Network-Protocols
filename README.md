@@ -62,40 +62,37 @@ Create a Storage Account in Microsoft Azure.
 <p>
 <img src="https://i.imgur.com/q4R7hqD.png" height="50%" width="50%" alt="Remote Desktop"/>
   
-Within your Windows 10 Virtual Machine, Install Wireshark
+6.) Within your Windows 10 Virtual Machine, Install Wireshark
 Open Wireshark and filter for ICMP traffic only
 Utilize Wireshark to capture packets using Interet Control Messaging Protocol (ICMP) 
 
 <img src="https://i.imgur.com/yMWgiST.png" height="50%" width="50%" alt="Wireshark"/>
 </p>
 <br />
-<img src="https://i.imgur.com/fRlTG2w.png" height="50%" width="50%" alt="Wireshark"/>
 </p>
-</p>
-
-
 Utilize Wireshark to capture packets using Secure Shell (SSH)
 </p>
-<br />
-<img src="https://i.imgur.com/ivDUljU.png" height="50%" width="50%" alt="Wireshark"/>
+<img src="https://i.imgur.com/fRlTG2w.png" height="50%" width="50%" alt="Wireshark"/>
 </p>
 </p>
 Utilize Wireshark to monitor DHCP traffic over the network after renewing IP address
 </p>
 <br />
+<img src="https://i.imgur.com/ivDUljU.png" height="50%" width="50%" alt="Wireshark"/>
+</p>
+</p>
+<br />
+Utilize Wireshark to monitor DNS traffic over the network use nslookup to determine "Google" IP addresses
 <img src="https://i.imgur.com/A3b81O6.png" height="50%" width="50%" alt="Wireshark"/>
 </p>
 </p>
-Utilize Wireshark to monitor DNS traffic over the network use nslookup to determine "Google" IP addresses
+Utilize Wireshark to monitor ICMP traffic over the network use Ping -t.  
 </p>
-<br />
 <img src="https://i.imgur.com/xd9SCFY.png" height="50%" width="50%" alt="Wireshark"/>
 </p>
 
-Utilize Wireshark to monitor ICMP traffic over the network use Ping -t.  
-</p>
-<br />
 
+Create firewall rule to deny inbound ICMP traffic
+</p>
 <img src="https://i.imgur.com/L6fWZTN.png" height="50%" width="50%" alt="Wireshark"/>
 </p>
-Create firewall rule to deny inbound ICMP traffic
